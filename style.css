@@ -21,7 +21,7 @@ body {
     position: relative;
     width: 100%;
     padding-top: 56.25%;
-    background: url('/Users/nikkita.kalgren/Documents/Knowledge\ Base/thumbnail-knowledgebase.jpg') no-repeat center center;
+    background: url('thumbnail-knowledgebase.jpg') no-repeat center center;
     background-size: cover;
 }
 

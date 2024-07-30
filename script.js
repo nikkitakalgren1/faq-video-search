@@ -1,13 +1,13 @@
 const videos = [
-    { title: "Can I create a cartoon custom avatar", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/CanIcreateacartooncustomavatar.mp4" },
-    { title: "Can I create a Custom Avatar of a celebrity", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/CanIcreateaCustomAvatarofacelebrity.mp4" },
-    { title: "How to create a personal avatar", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/Howtocreateapersonalavatar.mp4" },
-    { title: "How to customize a Stock avatar with the Avatar Builder", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/HowtocustomizeaStockavatarwiththeAvatarBuilder.mp4" },
-    { title: "How to make two avatar's dialogue with one another", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/Howtomaketwoavatarsdialoguewithoneanother.mp4" },
-    { title: "Stock voices and languages", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/Stockvoicesandlanguages.mp4" },
-    { title: "What are Synthesia Stock Avatars", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/WhatareSynthesiaStockAvatars.mp4" },
-    { title: "What is a Custom Avatar", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/WhatisaCustomAvatar.mp4" },
-    { title: "Will my Custom Avatar be available to other users on the system", url: "/Users/nikkita.kalgren/Documents/Knowledge\ Base/Avatars/WillmyCustomAvatarbeavailabletootherusersonthesystem.mp4" },
+    { title: "Can I create a cartoon custom avatar", url: "/videos/CanIcreateacartooncustomavatar.mp4" },
+    { title: "Can I create a Custom Avatar of a celebrity", url: "/videos/CanIcreateaCustomAvatarofacelebrity.mp4" },
+    { title: "How to create a personal avatar", url: "/videos/Howtocreateapersonalavatar.mp4" },
+    { title: "How to customize a Stock avatar with the Avatar Builder", url: "/videos/HowtocustomizeaStockavatarwiththeAvatarBuilder.mp4" },
+    { title: "How to make two avatar's dialogue with one another", url: "/videos/Howtomaketwoavatarsdialoguewithoneanother.mp4" },
+    { title: "Stock voices and languages", url: "/videos/Stockvoicesandlanguages.mp4" },
+    { title: "What are Synthesia Stock Avatars", url: "/videos/WhatareSynthesiaStockAvatars.mp4" },
+    { title: "What is a Custom Avatar", url: "/videos/WhatisaCustomAvatar.mp4" },
+    { title: "Will my Custom Avatar be available to other users on the system", url: "/videos/WillmyCustomAvatarbeavailabletootherusersonthesystem.mp4" },
     // Add more videos here
 ];
 
